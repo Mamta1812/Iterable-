@@ -4,3 +4,4 @@
 -- here is the explaination of all the iterables in python 
 # file : Lab-W3d1-ct
 -- some more question for practice
+-- there are 3 question with solution here 
